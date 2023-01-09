@@ -20,11 +20,11 @@ With an intrinsic engineer spirit, I am a natural problem solver who loves to le
 
 ⚡ Fun fact: I lose track of time when I'm paiting or reading a good book.
 
-### What I'm focusing on
+### What I'm focusing on 🌱 
 
-🌱 I’m currently learning Phyton
+I’m currently learning Phyton and finishing my CS degree.
 
-### Find me elsewhere
-📫 You can reach me here:
+### Find me elsewhere 📫
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sandraperdigao)
 	
