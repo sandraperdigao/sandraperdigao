@@ -22,7 +22,7 @@ With an intrinsic engineer spirit, I am a natural problem solver who loves to le
 
 ### What I'm focusing on 🌱 
 
-I’m currently learning Phyton and finishing my CS degree.
+I’m currently finishing my CS degree.
 
 ### Find me elsewhere 📫
 
