@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-I've started my professional experience in the Biomedical field, having proceeded to Mechanical Engineering, and have decided in the last few years to focus on IT. There is nothing more rewarding than knowing and seeing the evidence that coding can make on someone's life. 
-With an intrinsic engineer spirit, I am a natural problem solver who loves to learn new things. 
-
+--
+ 
 ⚡ Fun fact: I lose track of time when I'm paiting or reading a good book.
 
 ### What I'm focusing on 🌱 
