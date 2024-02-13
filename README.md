@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### What I'm focusing on 🌱 
 
-I’m currently finishing my CS degree.
+I’ve recently graduated in Computer Science and I'm looking for a new job!
 
 ### Find me elsewhere 📫
 
